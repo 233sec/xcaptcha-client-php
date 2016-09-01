@@ -1,0 +1,17 @@
+{
+    "name": "233sec/xcaptcha-client",
+    "description": "a charcode-less Human-machine detect captcha service",
+    "keywords": ["captcha"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaohui lam",
+            "email": "xiaohui.lam@icloud.com"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "XCaptcha\\Client" : "src"
+        }
+    }
+}
